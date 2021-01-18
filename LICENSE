@@ -1,0 +1,5 @@
+1. Hash-based local avoidance system used in this project was extracted from Unite Austin Technical Presentation project (https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation) in order to obtain stress tests and compare performance. The code has been modified to meet the needs for stress testing. Original project License can be found here https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation/blob/master/LICENSE.md with 3rd party notices https://github.com/Unity-Technologies/UniteAustinTechnicalPresentation/blob/master/THIRD%20PARTY%20NOTICES.md.
+
+2. KDTree original class was published in http://forum.unity3d.com/threads/29923-Point-nearest-neighbour-search-class. In this project it was jobified to run with Unity DOTS and adopted to KDTree-based local avoidance example stress tests.
+
+3. Code which is written by me, such as stress test examples, can be used under MIT License.
